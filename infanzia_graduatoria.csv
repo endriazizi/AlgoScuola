@@ -1,0 +1,572 @@
+;Alunno;1¡ scelta;Punteggio 1;2¡ scelta;Punteggio 2;ID domanda
+1;SIMONCELLI ANDREA;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);20033;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);20033;29374
+2;ZHANG VALERIA;Olivieri - Glicine (37);20022;La giostra (28);10023;29736
+3;GRIFO LUCA;G.Galilei Tresei B.go S.Maria  (33);20025;();10022;29661
+4;DIKU ELMEDINA;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);20020;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);10025;30025
+5;DEL PRETE FRANCESCO;Poi poi di Via Ferraris (22);20064;Gulliver di Via Flaminia (29);10027;29754
+6;GIORGINI MARTA;Grillo parlante (8);20033;();10034;29414
+7;ANGIOLINI VITTORIO;Pirandello - Dire fare... (6);10031;Pirandello - Prato fiorito (18);10031;29893
+8;RADI MARCO;G. Galilei - Il bosco incantato (23);10027;();10027;29366
+9;PACI MARGHERITA;Pirandello - Dire fare... (6);10026;La Grande quercia di Via Leoncavallo (31);10030;29903
+10;PIETRELLI FLAVIO;Pirandello - Milleluci (11);10028;Pirandello - Dire fare... (6);10028;29062
+11;GENTILETTI MINA;Villa San Martino - Via togliatti (54);20022;La Grande quercia di Via Leoncavallo (31);28;28727
+12;MUNTEANU NINA;Olivieri - Glicine (37);10022;();10022;29939
+13;ROMANCIUC GINEVRA;Pirandello - Dire fare... (6);20025;();10026;29195
+14;MASSENSINI LIVIA;Filo rosso (21);10026;Gaudiano - Mille colori (7);10022;29008
+15;GABALLO CLOE;Pirandello - Milleluci (11);10026;Pirandello - Dire fare... (6);10026;29169
+16;TESTA LORENZO;Pirandello - Prato fiorito (18);20020;I Tre giardini sez primavera (18);26;30081
+17;CARDINALI LUCREZIA;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);10023;();10023;29672
+18;NARDINI OLIVIA;G. Galilei - Il bosco incantato (23);10022;G. Galilei - Alice (19);10022;28981
+19;PATRIGNANI ANGELICA;G.Galilei Tresei B.go S.Maria  (33);10022;G.GalileiPollicino Casebruciate  (11);10022;28608
+20;PODRINI TOMMASO;Gaudiano - Mille colori (7);20021;Il Giardino fantastico di Via Madonna di Loreto (8);10022;29789
+21;PODRINI FRANCESCO;Gaudiano - Mille colori (7);20021;Il Giardino fantastico di Via Madonna di Loreto (8);10022;29858
+22;SANTANGELI DARIA;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);10021;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);10021;29135
+23;SFREGOLA FRANCESCO ELIA;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);10020;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);10016;29590
+24;GIACCAGLIA DARIA;Gaudiano - Mille colori (7);20018;Leopardi - Via Bonali (22);20;29501
+25;SGHERRI NICOLA;Olivieri - Glicine (37);10019;();10019;29977
+26;TRIFAN NICOLO\';D.Alighieri Il Giardino delle Meraviglie  Vismara (35);10018;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);10018;28640
+27;TOTARO LEONARDO;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);10018;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);10018;29279
+28;SFORZA FRANCESCO;La Grande quercia di Via Leoncavallo (31);20017;I Tre giardini sez primavera (18);10018;28595
+29;PIERI CRISTIAN;Alighieri - Skarabocchio (40);20017;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);10018;29818
+30;CATAMO FRANCESCA;Leopardi - Via Bonali (22);10017;La giostra (28);10017;28871
+31;MARCHETTI ZAYA;Pirandello - Dire fare... (6);20016;La Grande quercia di Via Leoncavallo (31);14;29013
+32;GASPERI GIULIA;Villa San Martino - Via togliatti (54);10015;();10015;29777
+33;PEDATA AURORA;Alighieri - Skarabocchio (40);10012;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);10012;28842
+34;SCALORA GABRIEL;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);20008;();10005;29019
+35;AGUIRRE ROSALES MATHIAS LIONEL;Il Giardino fantastico di Via Madonna di Loreto (8);20008;();20008;28844
+36;CAREDDU ALICE;Villa San Martino - Via togliatti (54);5035;Ambaraba' (15);-4964;30026
+37;RENZI DAFNE;G. Galilei - Il bosco incantato (23);20023;();10024;28959
+38;ESPOSITO LEONARDO;Filo rosso (21);10076;();10026;29255
+39;FABI EMMA;Poi poi di Via Ferraris (22);10056;Il Giardino fantastico di Via Madonna di Loreto (8);39;29017
+40;BERETTA BEZERRA JASON;Olivieri - Glicine (37);10005;Poi poi di Via Ferraris (22);56;29291
+41;SECCHIAROLI GIACOMO;I Tre giardini sez primavera (18);10028;La Grande quercia di Via Leoncavallo (31);54;28759
+42;TERRITO MOISE\' DAVID;La Grande quercia di Via Leoncavallo (31);10051;Ambaraba' (15);10022;28737
+43;DI CRISTOFARO LEONARDO;La giostra (28);10035;();10035;29569
+44;DI LELLO ANDREA;La Grande quercia di Via Leoncavallo (31);10038;Ambaraba' (15);10020;28599
+45;ANDRUCCIOLI ASIA;La Grande quercia di Via Leoncavallo (31);10036;();19;29453
+46;PASTORELLI ANDREA;La Grande quercia di Via Leoncavallo (31);37;Olivieri - Glicine (37);10020;28833
+47;BOSI MARTINO LUDOVICO;Gaudiano - Mille colori (7);10030;Filo rosso (21);31;28810
+48;MARCHETTI MIA;Peter pan di Via Livorno (19);10033;();34;28803
+49;MARCHETTI MARCO;Peter pan di Via Livorno (19);10033;();34;28799
+50;LUCIANI ANNA;Il Giardino fantastico di Via Madonna di Loreto (8);10033;Gulliver di Via Flaminia (29);10033;28788
+51;ORFANO\' JOELE;Poi poi di Via Ferraris (22);30;Leopardi - Via Fermi (22);10033;29926
+52;ORFANO\' ALISYA;Poi poi di Via Ferraris (22);30;Leopardi - Via Fermi (22);10033;30015
+53;ROMASCAN DAMIANA;Poi poi di Via Ferraris (22);10032;();19;29054
+54;DE LUCA CATERINA;I Tre giardini sez primavera (18);10032;();29;28696
+55;LIZIO PARCESEPE NICOL˜;La Grande quercia di Via Leoncavallo (31);10032;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);33;29006
+56;LIZIO PARCESEPE  LUCA;La Grande quercia di Via Leoncavallo (31);10032;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);33;29003
+57;FERRI FILIPPO;Grillo parlante (8);10031;();28;29048
+58;MONTANARI ALICE;La Grande quercia di Via Leoncavallo (31);32;Villa San Martino - Via togliatti (54);10027;29527
+59;CIANCAMERLA CHLOE;Villa San Martino - Via togliatti (54);10029;La Grande quercia di Via Leoncavallo (31);26;29234
+60;DOMENICONI EMMA;Ambaraba' (15);10029;La Grande quercia di Via Leoncavallo (31);30;29097
+61;MANZO ACHILLE;I Tre giardini sez primavera (18);29;Pirandello - Prato fiorito (18);10024;29341
+62;AMELLI VITTORIO;Peter pan di Via Livorno (19);25;Alighieri - Skarabocchio (40);10028;29946
+63;FERRI ANITA;Villa San Martino - Via togliatti (54);10027;La Grande quercia di Via Leoncavallo (31);28;28716
+64;CONIGLIONE ASIA;La Grande quercia di Via Leoncavallo (31);28;Villa San Martino - Via togliatti (54);10023;29850
+65;VIENI MANFRED;La Grande quercia di Via Leoncavallo (31);28;Villa San Martino - Via togliatti (54);10023;29951
+66;GIORGI GRETA;G. Galilei - Il bosco incantato (23);10027;G. Galilei - Alice (19);24;29479
+67;CUCIAS ILIE;Il Giardino fantastico di Via Madonna di Loreto (8);28;Olivieri - Glicine (37);10027;29293
+68;ROSCETTI ENEA;La giostra (28);28;Olivieri - Glicine (37);10023;30070
+69;GIROMETTI MARINA;Leopardi - Via Fermi (22);10022;Gulliver di Via Flaminia (29);27;29463
+70;DIOTALEVI FRANCESCO;Peter pan di Via Livorno (19);10026;Specchio magico (17);27;28839
+71;CECCOLINI MARTINA JULIA;Villa San Martino - Via togliatti (54);10022;La Grande quercia di Via Leoncavallo (31);27;28516
+72;RUGGERI MARCO;Grillo parlante (8);26;G. Galilei - Alice (19);10021;28620
+73;BELLUCCI  DIEGO;Grillo parlante (8);26;G. Galilei - Alice (19);10021;29274
+74;PANZIERI CELESTE;I Tre giardini sez primavera (18);10025;Il Giardino fantastico di Via Madonna di Loreto (8);26;28498
+75;SCARCELLI JACOPO VIRGILIO;Filo rosso (21);22;Gaudiano - Mille colori (7);10021;28632
+76;POMILIO LUCA;Grillo parlante (8);26;G. Galilei - Alice (19);10021;28896
+77;COCULLA ILARIA;Olivieri - Glicine (37);10025;I Tre giardini sez primavera (18);26;28776
+78;SANTOLINI AMBRA;La giostra (28);26;Olivieri - Glicine (37);10021;28747
+79;DAMERINI LEO;G. Galilei - Il bosco incantato (23);10025;G. Galilei - Alice (19);26;28639
+80;NUSDEO VITTORIA;Villa San Martino - Via togliatti (54);10025;La Grande quercia di Via Leoncavallo (31);26;28644
+81;AMATORI LARA;Pirandello - Prato fiorito (18);10024;Il Giardino fantastico di Via Madonna di Loreto (8);21;29502
+82;VASTOLA GUIDO;Peter pan di Via Livorno (19);10024;();25;29658
+83;ANDREOLLI CATERINA;Gulliver di Via Flaminia (29);10024;Poi poi di Via Ferraris (22);10024;29802
+84;PAGNONI DI DARIO  PIETRO;Grillo parlante (8);10024;G. Galilei - Alice (19);25;28847
+85;PRIMAVERA TOBIA;Olivieri - Glicine (37);10024;Villa San Martino - Via togliatti (54);25;28680
+86;FOGANTE LEONARDO;La Grande quercia di Via Leoncavallo (31);10024;();21;30034
+87;GRASSI GIOELE;Pirandello - Dire fare... (6);10024;Il Giardino fantastico di Via Madonna di Loreto (8);25;28832
+88;SARACINO ANITA;Poi poi di Via Ferraris (22);24;Gulliver di Via Flaminia (29);10023;28889
+89;TALEVI PIETRO;Poi poi di Via Ferraris (22);10023;Gulliver di Via Flaminia (29);24;29372
+90;MAFFEI FRANCESCO;La Grande quercia di Via Leoncavallo (31);10023;();24;29919
+91;FALCIONI FEDERICO;Pirandello - Dire fare... (6);10022;Ambaraba' (15);23;28555
+92;FRANCOLINI MANUEL;Pirandello - Prato fiorito (18);10022;I Tre giardini sez primavera (18);23;28705
+93;BARBARINI PIETRO;Alighieri - Skarabocchio (40);10022;Peter pan di Via Livorno (19);23;28740
+94;RISA ALEX JUN;La giostra (28);23;Olivieri - Glicine (37);10018;29367
+95;ZHASHUEV ALAN;La giostra (28);23;Olivieri - Glicine (37);10018;29103
+96;MAHBUBUL DANIYAH MEHEK KHAN;Filo rosso (21);10022;();23;29822
+97;BAMBINI ALBERTO;G. Galilei - Alice (19);10018;Grillo parlante (8);23;29595
+98;QUEIROLO FRANCESCO;La giostra (28);10022;La Grande quercia di Via Leoncavallo (31);23;28906
+99;ROBERTI TOMMASO;G. Galilei - Alice (19);10018;Grillo parlante (8);23;29572
+100;PIRELLI BELLA;Ambaraba' (15);10022;();23;28518
+101;FEDERICI KRISTAL ROSE;G.GalileiPollicino Casebruciate  (11);10022;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);23;28966
+102;TENTI GABRIELE;La giostra (28);10021;();22;29278
+103;CONTIGIANI GIACOMO;La giostra (28);10021;I Tre giardini sez primavera (18);10021;29620
+104;TERRACCIANO ANITA;Villa San Martino - Via togliatti (54);10021;Alighieri - Skarabocchio (40);22;29247
+105;PROCOPIO DIEGO;Specchio magico (17);10021;Peter pan di Via Livorno (19);22;28860
+106;CETTA ELISA;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);10021;Alighieri - Skarabocchio (40);22;28790
+107;HADJIEDJ MERIEM;Leopardi - Via Bonali (22);10021;();22;30076
+108;AMBROGIANI RAFFAELE;Pirandello - Prato fiorito (18);10021;La Grande quercia di Via Leoncavallo (31);22;28808
+109;MAINARDI JOY;La Grande quercia di Via Leoncavallo (31);10021;();18;28950
+110;BRANCHINI  ACHILLE;Pirandello - Prato fiorito (18);10021;Olivieri - Glicine (37);22;28569
+111;D\'OVIDIO ALESSANDRO;Gulliver di Via Flaminia (29);10021;Poi poi di Via Ferraris (22);22;28968
+112;MARCOLINI LEONARDO;G.GalileiPollicino Casebruciate  (11);10021;Pirandello - Prato fiorito (18);22;28692
+113;GIUNTA CHRIS;G.Galilei Tresei B.go S.Maria  (33);10021;();22;29317
+114;KOSANOVIC LARA;G.Galilei Tresei B.go S.Maria  (33);10021;();22;28725
+115;DI SCIULLO MARCO;I Tre giardini sez primavera (18);10021;Pirandello - Prato fiorito (18);22;29181
+116;FLOREA DAMIAN;Alighieri - Skarabocchio (40);10021;Specchio magico (17);22;29935
+117;MERCATELLI TOMMASO;Pirandello - Prato fiorito (18);10020;Pirandello - Dire fare... (6);21;28881
+118;BADIOLI LUCA;G. Galilei - Il bosco incantato (23);10020;();21;28879
+119;MINGOLLA ELIA CLAUDIO;G.Galilei Tresei B.go S.Maria  (33);10020;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);21;28698
+120;LUCONI GIULIA;Gaudiano - Mille colori (7);10019;Filo rosso (21);10019;28942
+121;SOBENKO DANIELE;G.Galilei Tresei B.go S.Maria  (33);10019;();20;28825
+122;BARTOLOMEOLI GIULIO;I Tre giardini sez primavera (18);10019;();16;28827
+123;GIUSTI LAVINIA;I Tre giardini sez primavera (18);10019;Il Giardino fantastico di Via Madonna di Loreto (8);10019;29538
+124;BUSCAGLIA CESARE;Peter pan di Via Livorno (19);10019;Specchio magico (17);20;29198
+125;AIUDI ALICE;Pirandello - Prato fiorito (18);10019;I Tre giardini sez primavera (18);20;28625
+126;FABRIZIO LORENZO;Gaudiano - Mille colori (7);10019;();20;28904
+127;CARDINALI DILETTA;G. Galilei - Alice (19);10015;Grillo parlante (8);20;29635
+128;BIFEZZI BIANCA MARIA;La Grande quercia di Via Leoncavallo (31);10019;Villa San Martino - Via togliatti (54);10019;30057
+129;JAMADAR TAHIRA;Alighieri - Skarabocchio (40);10015;Specchio magico (17);20;29349
+130;EL-GADAMSI AARON;La Grande quercia di Via Leoncavallo (31);10019;();20;29908
+131;DE LUCA BEATRICE;Grillo parlante (8);10019;Grillo parlante (8);20;29988
+132;ANDREATINI GLORIA;I Tre giardini sez primavera (18);10018;Il Giardino fantastico di Via Madonna di Loreto (8);19;29318
+133;ZEPPA  MATILDE;Ambaraba' (15);10018;Alighieri - Skarabocchio (40);10018;29975
+134;DANIELE LAVINIA;Villa San Martino - Via togliatti (54);10018;La Grande quercia di Via Leoncavallo (31);19;28565
+135;CEFALA DIEGO;Filo rosso (21);10018;Gaudiano - Mille colori (7);19;29179
+136;PAGLIA GIOVANNI;Grillo parlante (8);10018;G. Galilei - Alice (19);10018;28634
+137;DARKO VALENTINA;Filo rosso (21);10018;();19;29246
+138;IACOMUCCI OLIVIA;Olivieri - Glicine (37);10017;Leopardi - Via Fermi (22);18;29004
+139;ANDRISANI ANDREA;Olivieri - Glicine (37);10017;();18;29077
+140;MARIAN DYLAN;Villa San Martino - Via togliatti (54);10017;();18;28594
+141;PIANOSI MATTIA;Grillo parlante (8);10016;();17;30063
+142;RUSU ANDREEA;Leopardi - Via Bonali (22);10016;Leopardi - Via Bonali (22);17;30044
+143;CIALDINI LORENZO;Ambaraba' (15);10015;La Grande quercia di Via Leoncavallo (31);10015;29899
+144;TERENZI CESARE;Il Giardino fantastico di Via Madonna di Loreto (8);10015;La Grande quercia di Via Leoncavallo (31);10015;29336
+145;LABICS ROBERTO VASILE;Specchio magico (17);10015;();16;29548
+146;MADUEKE MMESOMA GOODNESS;G.Galilei Tresei B.go S.Maria  (33);10015;();16;29836
+147;MADUEKE EZINNE FRANCISCA;G.Galilei Tresei B.go S.Maria  (33);10015;();16;29834
+148;PIERGIOVANNI THOMAS;Pirandello - Prato fiorito (18);10015;I Tre giardini sez primavera (18);16;28573
+149;FERIZOLLI FRANCESCO;Olivieri - Glicine (37);10015;I Tre giardini sez primavera (18);16;29183
+150;MASROUR MARWA;Alighieri - Skarabocchio (40);10014;();15;29289
+151;GALLI TESTASECCA PARIDE;Poi poi di Via Ferraris (22);10013;();10008;29550
+152;SORDILLO  FEDERICO;Grillo parlante (8);10012;Grillo parlante (8);10012;29841
+153;MONTAGNA MICHELE;Ambaraba' (15);10012;Villa San Martino - Via togliatti (54);13;28560
+154;GENNARI MATILDE;Alighieri - Skarabocchio (40);10012;Specchio magico (17);13;28888
+155;BARKALLAH MOHAMED FAISEL;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);10011;La Grande quercia di Via Leoncavallo (31);10011;28961
+156;WARNAKULASURIYAGE SHEN ANGELO;Il Giardino fantastico di Via Madonna di Loreto (8);10011;I Tre giardini sez primavera (18);10011;28744
+157;GRANDE ALEX;Alighieri - Skarabocchio (40);10010;();11;28921
+158;CORNEJO HUAYNALAYA LEONARDO SALVATORE BRAULIO;Gaudiano - Mille colori (7);10009;Leopardi - Via Bonali (22);10009;29306
+159;HU XINYI;Peter pan di Via Livorno (19);10009;Specchio magico (17);10009;28660
+160;LUZI JACOPO;G.GalileiPollicino Casebruciate  (11);10009;G.Galilei Tresei B.go S.Maria  (33);10009;28955
+161;BOKETSHU BOMBALA VERA;Peter pan di Via Livorno (19);10005;Filo rosso (21);10005;28764
+162;RIOS MANTARI FLAVIO ALESSANDRO;Gaudiano - Mille colori (7);10002;Filo rosso (21);10002;29868
+163;PEDONE LEONARDO;Alighieri - Skarabocchio (40);20028;Gaudiano - Mille colori (7);30;29757
+164;BARTOLINI CATERINA;G. Galilei - Il bosco incantato (23);10019;G. Galilei - Alice (19);10019;29248
+165;ROSSINI GIULIO;Pirandello - Milleluci (11);10018;Pirandello - Dire fare... (6);10018;28893
+166;ROSSI ELIA OMAR;La Grande quercia di Via Leoncavallo (31);52;Poi poi di Via Ferraris (22);52;29910
+167;MENINNO LEONARDO;Poi poi di Via Ferraris (22);51;();51;29894
+168;INZERILLI OLIVIA;La Grande quercia di Via Leoncavallo (31);45;Poi poi di Via Ferraris (22);45;29803
+169;RADI ANNA;Poi poi di Via Ferraris (22);69;Gulliver di Via Flaminia (29);19;29778
+170;PIBIRI ISABEL;La Grande quercia di Via Leoncavallo (31);44;Poi poi di Via Ferraris (22);44;29706
+171;DELUCA PIERO;La Grande quercia di Via Leoncavallo (31);58;();26;29643
+172;MONTANARO ANITA;Poi poi di Via Ferraris (22);55;Il Giardino fantastico di Via Madonna di Loreto (8);25;29725
+173;BRENDA RICCARDO;Poi poi di Via Ferraris (22);51;Gulliver di Via Flaminia (29);27;29740
+174;GALLI FRANCESCO;La Grande quercia di Via Leoncavallo (31);50;Ambaraba' (15);20;29707
+175;BASILI EVAN;La giostra (28);25;Poi poi di Via Ferraris (22);46;28773
+176;AXINT FRANCESCO;La Grande quercia di Via Leoncavallo (31);35;Poi poi di Via Ferraris (22);35;28638
+177;PIERINI ALICE;Poi poi di Via Ferraris (22);49;Gulliver di Via Flaminia (29);22;29783
+178;ARDUINI NOEMI;Villa San Martino - Via togliatti (54);20;La Grande quercia di Via Leoncavallo (31);45;28499
+179;URBINATI LEONARDO;La Grande quercia di Via Leoncavallo (31);43;La giostra (28);23;28540
+180;SELVI SEBASTIANO;Poi poi di Via Ferraris (22);42;Gulliver di Via Flaminia (29);21;29830
+181;RIFFELLI LEONARDO;Poi poi di Via Ferraris (22);42;Gulliver di Via Flaminia (29);22;29352
+182;LEONARDI LESANU ENRICO;La Grande quercia di Via Leoncavallo (31);41;Villa San Martino - Via togliatti (54);16;29415
+183;BIAGIOTTI EDOARDO;La Grande quercia di Via Leoncavallo (31);41;Gulliver di Via Flaminia (29);22;29760
+184;BARTOLINI GIACOMO;La Grande quercia di Via Leoncavallo (31);40;();20;29074
+185;BARBIERI MARGHERITA;Peter pan di Via Livorno (19);36;Specchio magico (17);36;30028
+186;QUARTIERI CECILIA;La Grande quercia di Via Leoncavallo (31);40;();19;28549
+187;FAMULARI EDOARDO;Poi poi di Via Ferraris (22);38;Leopardi - Via Fermi (22);19;28785
+188;PAPALE LEONARDO;I Tre giardini sez primavera (18);36;La Grande quercia di Via Leoncavallo (31);32;29485
+189;MAZZI MARGHERITA;Ambaraba' (15);35;La Grande quercia di Via Leoncavallo (31);31;28616
+190;DARGENIO ALYSSA;Poi poi di Via Ferraris (22);35;Gulliver di Via Flaminia (29);19;29471
+191;ANGELINI ANDREA;Ambaraba' (15);34;La Grande quercia di Via Leoncavallo (31);30;28666
+192;TINAZZI ANDREA;I Tre giardini sez primavera (18);34;Olivieri - Glicine (37);30;28914
+193;PARDU CHRISTIAN GAETANO;La Grande quercia di Via Leoncavallo (31);34;Villa San Martino - Via togliatti (54);18;29259
+194;MARANZANA ZENO;Specchio magico (17);33;Peter pan di Via Livorno (19);29;29536
+195;MATTIOLI ANNA;Ambaraba' (15);33;Peter pan di Via Livorno (19);33;29585
+196;GRAZIOLI LUDOVICA;La Grande quercia di Via Leoncavallo (31);28;Ambaraba' (15);32;28468
+197;AVELLA MAYA;I Tre giardini sez primavera (18);32;Ambaraba' (15);28;29073
+198;MARTELLI AMELIA;Specchio magico (17);27;Peter pan di Via Livorno (19);31;29785
+199;AMBROGIANI IRIS;La giostra (28);27;Gulliver di Via Flaminia (29);27;30007
+200;MOSCONI VITTORIO;Specchio magico (17);31;La Grande quercia di Via Leoncavallo (31);27;29895
+201;BOLOGNINI ALBERTO;Peter pan di Via Livorno (19);31;Specchio magico (17);27;28849
+202;SGHERRI JACOPO;Ambaraba' (15);27;La Grande quercia di Via Leoncavallo (31);31;29036
+203;MAGI RICCARDO;Gaudiano - Mille colori (7);31;Filo rosso (21);31;28505
+204;PIERI MATILDE;Gulliver di Via Flaminia (29);30;Poi poi di Via Ferraris (22);26;28817
+205;PIERI SOFIA;Gulliver di Via Flaminia (29);30;Poi poi di Via Ferraris (22);26;28815
+206;DI LORENZI VITTORIA;G.Galilei Tresei B.go S.Maria  (33);30;G.GalileiPollicino Casebruciate  (11);26;28585
+207;CAVICCHIA AGNESE;Peter pan di Via Livorno (19);30;Specchio magico (17);26;29308
+208;CUCCHIARINI EMMA;Alighieri - Skarabocchio (40);30;Peter pan di Via Livorno (19);30;29029
+209;DIGAETA MARGHERITA;Olivieri - Glicine (37);30;La giostra (28);30;28492
+210;ANGELUCCI FRANCESCO;Peter pan di Via Livorno (19);29;Specchio magico (17);25;28627
+211;ANGELUCCI GIULIANO;Peter pan di Via Livorno (19);29;Specchio magico (17);25;28626
+212;COSTANTINI NICOLO\';I Tre giardini sez primavera (18);25;Il Giardino fantastico di Via Madonna di Loreto (8);25;28784
+213;TERRANOVA PAOLO;Poi poi di Via Ferraris (22);29;Gulliver di Via Flaminia (29);25;28536
+214;RIFFELLI GIACOMO;Peter pan di Via Livorno (19);29;Specchio magico (17);25;28662
+215;MAGI ALESSANDRO;Poi poi di Via Ferraris (22);29;Gulliver di Via Flaminia (29);29;29873
+216;CECCHINI GABRIELE;I Tre giardini sez primavera (18);29;();25;28884
+217;MANOSALVA  LORENZO;Cappuccetto rosso (9);28;Gulliver di Via Flaminia (29);28;28779
+218;MOLINARO MATTIA;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);28;();28;28658
+219;RAVAGLI SAMUELE;I Tre giardini sez primavera (18);28;Olivieri - Glicine (37);24;29395
+220;MARCHIONNI LEONARDO;Cappuccetto rosso (9);28;Gulliver di Via Flaminia (29);28;29675
+221;CATANIA MATTEO;Alighieri - Skarabocchio (40);28;Specchio magico (17);28;28494
+222;CICERONI GINEVRA;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);28;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);28;28962
+223;DEGRANDIS GIADA;Grillo parlante (8);27;();27;29931
+224;COPPOLA ANDREA;La Grande quercia di Via Leoncavallo (31);27;Ambaraba' (15);27;28514
+225;URBAN ANDREA;Specchio magico (17);27;Peter pan di Via Livorno (19);23;29486
+226;TAMANTI  MARTINA;Peter pan di Via Livorno (19);27;Alighieri - Skarabocchio (40);23;29358
+227;GIORGI MARIA VIRGINIA;Pirandello - Milleluci (11);27;Cappuccetto rosso (9);27;29907
+228;PAZZAGLIA VALENTINA;Ambaraba' (15);27;La Grande quercia di Via Leoncavallo (31);23;30059
+229;LIUZZI TOMMASO;La giostra (28);27;();23;29361
+230;GALTOTA GAMAGE AYAAN AGASTHYA GAMAGE;Peter pan di Via Livorno (19);27;Specchio magico (17);27;29454
+231;PIERANGELI STEFANIA;La giostra (28);27;();23;29128
+232;DE MARCHI LEONARDO;Gulliver di Via Flaminia (29);27;Poi poi di Via Ferraris (22);23;29596
+233;GRIMALDI VITALI GIACOMO;Peter pan di Via Livorno (19);27;Specchio magico (17);23;28687
+234;FIORANI LORENZO;Alighieri - Skarabocchio (40);27;Peter pan di Via Livorno (19);27;29857
+235;TARTARO TOMMASO;Poi poi di Via Ferraris (22);27;Gulliver di Via Flaminia (29);27;29752
+236;GILI LUDOVICA;I Tre giardini sez primavera (18);23;La giostra (28);27;28763
+237;UDDIN AMAL;Filo rosso (21);27;();23;28918
+238;QUATTRONE REBECCA;Alighieri - Skarabocchio (40);26;Gaudiano - Mille colori (7);26;29905
+239;POLVERARI GREGORIO;Leopardi - Via Bonali (22);26;Leopardi - Via Fermi (22);26;30042
+240;GURINI LEONARDO;Peter pan di Via Livorno (19);26;Specchio magico (17);22;29235
+241;EUSEPI SOFIA;Pirandello - Prato fiorito (18);26;Pirandello - Dire fare... (6);26;28863
+242;CANCELLIERI LUDOVICO;Ambaraba' (15);26;La Grande quercia di Via Leoncavallo (31);26;29821
+243;SEMERARO MAGGIE;La Grande quercia di Via Leoncavallo (31);26;();22;28646
+244;BUDA AGATA;Poi poi di Via Ferraris (22);22;Gulliver di Via Flaminia (29);26;28751
+245;PATRIGNANI LUCA;Ambaraba' (15);26;La Grande quercia di Via Leoncavallo (31);22;28613
+246;CASTELLUCCI CESARE;Il Giardino fantastico di Via Madonna di Loreto (8);26;I Tre giardini sez primavera (18);26;28615
+247;WARNAKULASURIYA FERNANDO DIYAN NITHESH;Peter pan di Via Livorno (19);26;Specchio magico (17);22;28592
+248;GIORGI ARIANNA;I Tre giardini sez primavera (18);26;Il Giardino fantastico di Via Madonna di Loreto (8);26;28552
+249;RAMADANI GIULIO;I Tre giardini sez primavera (18);26;Pirandello - Prato fiorito (18);26;29321
+250;VASTOLA ANDREA;Peter pan di Via Livorno (19);25;();25;29594
+251;LEONARDI DIEGO;G. Galilei - Il bosco incantato (23);25;Grillo parlante (8);25;28743
+252;CICCARINI GAIA;Ambaraba' (15);25;La Grande quercia di Via Leoncavallo (31);21;28977
+253;DILIBERTO CELESTE;Alighieri - Skarabocchio (40);25;Ambaraba' (15);25;28791
+254;RENZI BEATRICE;Poi poi di Via Ferraris (22);25;Gulliver di Via Flaminia (29);25;28526
+255;CECCOLINI GIOVANNI;Poi poi di Via Ferraris (22);25;Leopardi - Via Fermi (22);25;29476
+256;DOMENICUCCI  DANIEL;Peter pan di Via Livorno (19);25;Specchio magico (17);21;28756
+257;GIORGINI EDOARDO;Gulliver di Via Flaminia (29);25;Poi poi di Via Ferraris (22);25;29396
+258;MEZZANOTTI EMI;Specchio magico (17);25;Peter pan di Via Livorno (19);25;29543
+259;GIORGI LUDOVICA;Grillo parlante (8);25;G. Galilei - Alice (19);25;28710
+260;D\'AURIA GAIA;G.Galilei Tresei B.go S.Maria  (33);24;();24;28673
+261;PIERMARIA SIBILLA;Villa San Martino - Via togliatti (54);24;La Grande quercia di Via Leoncavallo (31);24;28641
+262;MANCINI MATILDE;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);24;Gaudiano - Mille colori (7);24;28713
+263;BERSANETTI GREGORIO;Il Giardino fantastico di Via Madonna di Loreto (8);24;I Tre giardini sez primavera (18);24;29922
+264;BENOFFI ALTEA;Gulliver di Via Flaminia (29);24;Poi poi di Via Ferraris (22);24;29799
+265;FUCCI MIRIAM;Gulliver di Via Flaminia (29);24;I Tre giardini sez primavera (18);24;29297
+266;FABBRI ALBERTO;Peter pan di Via Livorno (19);24;Specchio magico (17);24;29605
+267;ARCHI ARIANNA;Pirandello - Prato fiorito (18);24;I Tre giardini sez primavera (18);24;28538
+268;PACINI ANDREA;Il Giardino fantastico di Via Madonna di Loreto (8);24;Gulliver di Via Flaminia (29);24;28590
+269;INFANTE CECILIA;Gulliver di Via Flaminia (29);24;Poi poi di Via Ferraris (22);24;28669
+270;ORAZI LIVIA;Poi poi di Via Ferraris (22);24;Leopardi - Via Bonali (22);24;30033
+271;GRICINELLA EDOARDO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);24;Ambaraba' (15);24;29912
+272;OBETEN ALLYSON;Pirandello - Milleluci (11);24;();24;28912
+273;AROSTI EDOARDO;I Tre giardini sez primavera (18);24;();24;29637
+274;PATTI EMILY;Gaudiano - Mille colori (7);24;Peter pan di Via Livorno (19);24;28856
+275;LORENZI BEATRICE;G.Galilei Tresei B.go S.Maria  (33);24;();24;28701
+276;CORSINI LUCIDI FILIPPO;La giostra (28);23;I Tre giardini sez primavera (18);23;29310
+277;BENEDETTI GABRIEL;La giostra (28);19;();23;29301
+278;ALESSANDRONI LUNA;La Grande quercia di Via Leoncavallo (31);23;();23;28650
+279;SEMENZA ALESSANDRO;La Grande quercia di Via Leoncavallo (31);23;La giostra (28);23;29798
+280;MAMBELLI RICCARDO;Ambaraba' (15);23;La Grande quercia di Via Leoncavallo (31);23;29458
+281;MUSTAFA AMRAH;La Grande quercia di Via Leoncavallo (31);23;();19;29339
+282;TOSCANO AMBRA;Mary poppins di Colombarone (11);23;();23;29600
+283;CLINI OLIVIA;Poi poi di Via Ferraris (22);23;I Tre giardini sez primavera (18);23;29604
+284;DELLA DORA VITTORIA;Gulliver di Via Flaminia (29);23;();23;28979
+285;CABRAS GABRIELE;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);23;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);23;28736
+286;VAGLICA DANIELE;I Tre giardini sez primavera (18);23;();19;29535
+287;BAIONI PIETRO;Poi poi di Via Ferraris (22);23;Il Giardino fantastico di Via Madonna di Loreto (8);23;29759
+288;SCARPINO ROBERTA;Gaudiano - Mille colori (7);23;Olivieri - Glicine (37);23;28663
+289;MARIOTTI TOMMASO;I Tre giardini sez primavera (18);23;();23;29809
+290;MARCHIONNI LINDA;Mary poppins di Colombarone (11);23;();23;28689
+291;PASSERI MIRIAM;Leopardi - Via Bonali (22);23;Leopardi - Via Fermi (22);23;29410
+292;GORBI DIEGO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);23;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);23;28932
+293;SERTORI LUDOVICA;I Tre giardini sez primavera (18);23;Il Giardino fantastico di Via Madonna di Loreto (8);23;29577
+294;ANTONILLI OLIVIA;La Grande quercia di Via Leoncavallo (31);23;I Tre giardini sez primavera (18);23;29570
+295;CIAMAGLIA SANTIAGO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);23;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);23;28795
+296;FERRI GIULIO;Gulliver di Via Flaminia (29);22;Poi poi di Via Ferraris (22);22;28741
+297;NICOLINI LEONARDO;La Grande quercia di Via Leoncavallo (31);22;();22;29667
+298;MASSALINI LEONARDO;Il Giardino fantastico di Via Madonna di Loreto (8);22;Poi poi di Via Ferraris (22);22;28619
+299;DI LERNIA ROBERTO;Pirandello - Dire fare... (6);22;();22;29295
+300;SPAGNOLI NINA;Gulliver di Via Flaminia (29);22;Cappuccetto rosso (9);22;28813
+301;FERRI GIULIA;Grillo parlante (8);22;G. Galilei - Alice (19);22;29219
+302;SONAGGERE CLARA;Specchio magico (17);22;Peter pan di Via Livorno (19);22;29409
+303;OLMATI MATTEO;La Grande quercia di Via Leoncavallo (31);22;Villa San Martino - Via togliatti (54);22;28561
+304;TALEVI CECILIA;Il Giardino fantastico di Via Madonna di Loreto (8);22;I Tre giardini sez primavera (18);22;29137
+305;WEDAMESTHRIGE SILVA DIEGO METHUSHEL;Peter pan di Via Livorno (19);22;Filo rosso (21);22;28584
+306;GIOVANNINI ANDREA;Gulliver di Via Flaminia (29);22;Poi poi di Via Ferraris (22);22;29716
+307;MANONI EDOARDO;Mary poppins di Colombarone (11);22;();22;28681
+308;CRUCIANI LEONARDO;Il Giardino fantastico di Via Madonna di Loreto (8);22;Poi poi di Via Ferraris (22);22;29139
+309;LEONZIO ALESSANDRO;Alighieri - Skarabocchio (40);22;Peter pan di Via Livorno (19);22;28520
+310;PIERI VIRGINIA;Gaudiano - Mille colori (7);22;Peter pan di Via Livorno (19);22;28840
+311;BARBIERI RODOLFO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);22;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);22;29209
+312;SERBENCO MARTINA;La Grande quercia di Via Leoncavallo (31);22;();22;28563
+313;FIDONE GIANMARIA;Filo rosso (21);21;Gaudiano - Mille colori (7);21;29606
+314;DE VICO VIOLA;Gaudiano - Mille colori (7);21;Filo rosso (21);21;30114
+315;DE VICO TOMMASO;Gaudiano - Mille colori (7);21;Filo rosso (21);21;30113
+316;VINCENTI MATTEO;G.Galilei Tresei B.go S.Maria  (33);21;G.GalileiPollicino Casebruciate  (11);21;28706
+317;INTINI GABRIELLA;La giostra (28);21;Olivieri - Glicine (37);21;28812
+318;ORIOLO GUIDO;Il Giardino fantastico di Via Madonna di Loreto (8);21;I Tre giardini sez primavera (18);21;29808
+319;VICARI GAIA;I Tre giardini sez primavera (18);21;Il Giardino fantastico di Via Madonna di Loreto (8);21;29693
+320;TUGUI  MARIUS;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);21;Il Giardino fantastico di Via Madonna di Loreto (8);21;29206
+321;TROIANI LORENZO;Poi poi di Via Ferraris (22);21;Il Giardino fantastico di Via Madonna di Loreto (8);21;29523
+322;CLEMENTI NINA NEREA;I Tre giardini sez primavera (18);21;Il Giardino fantastico di Via Madonna di Loreto (8);21;29526
+323;DE PAOLA NOA;Alighieri - Skarabocchio (40);21;Peter pan di Via Livorno (19);21;28922
+324;PISCOPIELLO ELIAS;I Tre giardini sez primavera (18);21;Il Giardino fantastico di Via Madonna di Loreto (8);21;28714
+325;ITALIANI HAYDAR;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);21;Mary poppins di Colombarone (11);21;29847
+326;FORGIONE MATHIAS;G. Galilei - Il bosco incantato (23);21;();21;28864
+327;TERENZI GIACOMO;La Grande quercia di Via Leoncavallo (31);21;Ambaraba' (15);21;28469
+328;MARZOLI MATILDE;Grillo parlante (8);21;Ambaraba' (15);21;28489
+329;DIOP GIBRIL;La Grande quercia di Via Leoncavallo (31);21;Villa San Martino - Via togliatti (54);21;29421
+330;DELLA CHIARA PABLO;Grillo parlante (8);21;La Grande quercia di Via Leoncavallo (31);21;28523
+331;ZABULICA ADRIAN;G.GalileiPollicino Casebruciate  (11);21;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);21;29015
+332;ARCADIO SAMUELE;I Tre giardini sez primavera (18);21;Pirandello - Dire fare... (6);21;28614
+333;PERONI SAMUELE;G.Galilei Tresei B.go S.Maria  (33);21;Grillo parlante (8);21;28589
+334;NERI RICCARDO;Grillo parlante (8);21;G. Galilei - Alice (19);21;28553
+335;REXHEPI KEVIN;Ambaraba' (15);21;Villa San Martino - Via togliatti (54);21;29270
+336;DE VITO CRISTINA;Ambaraba' (15);21;Specchio magico (17);21;29448
+337;CHIS STEAFAN-MATEO;Grillo parlante (8);21;Peter pan di Via Livorno (19);21;29654
+338;RASTASANU ILARIA;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);21;();21;29200
+339;BORTOLIN CHRISTIAN;Filo rosso (21);20;Peter pan di Via Livorno (19);20;29244
+340;D\'INCECCO VELIA;La giostra (28);20;I Tre giardini sez primavera (18);16;29156
+341;CANESTRARI GIULIO;Ambaraba' (15);20;La Grande quercia di Via Leoncavallo (31);16;29292
+342;DUNGA SELENA;G.Galilei Tresei B.go S.Maria  (33);20;();20;29330
+343;LANI LORENZO;Peter pan di Via Livorno (19);20;Specchio magico (17);20;29963
+344;SPERINDEI BIANCA LEA;I Tre giardini sez primavera (18);20;Il Giardino fantastico di Via Madonna di Loreto (8);20;28535
+345;POLIDORI MIA;Filo rosso (21);20;Gaudiano - Mille colori (7);20;30073
+346;CUCCI SAMUELE;Filo rosso (21);20;Gaudiano - Mille colori (7);20;29134
+347;IANZANO EMILY;La Grande quercia di Via Leoncavallo (31);20;Poi poi di Via Ferraris (22);20;29855
+348;IANZANO CAMILLA;La Grande quercia di Via Leoncavallo (31);20;Poi poi di Via Ferraris (22);20;29849
+349;FALCIONI GABRIEL;Peter pan di Via Livorno (19);20;La Grande quercia di Via Leoncavallo (31);20;28534
+350;CECCAROLI LINDA;Poi poi di Via Ferraris (22);20;Il Giardino fantastico di Via Madonna di Loreto (8);20;28807
+351;TROLIO ANNA MARIA;G.GalileiPollicino Casebruciate  (11);20;Olivieri - Glicine (37);20;28811
+352;ZAVAGNINI ISABELLA;Peter pan di Via Livorno (19);20;Alighieri - Skarabocchio (40);20;29253
+353;KORRA AMELIE;I Tre giardini sez primavera (18);20;();20;29186
+354;FULGINI FILIPPO;Alighieri - Skarabocchio (40);20;Ambaraba' (15);20;28598
+355;CIARALLO ENEA;Poi poi di Via Ferraris (22);20;Leopardi - Via Fermi (22);20;28980
+356;MARCHIONNI MICHELE;La Grande quercia di Via Leoncavallo (31);20;I Tre giardini sez primavera (18);20;28890
+357;ANNIBALLI CATERINA;Alighieri - Skarabocchio (40);20;Specchio magico (17);20;28525
+358;LEVA ELEONORA;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);20;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);20;28541
+359;GIAMMATTEI REBECCA;Pirandello - Prato fiorito (18);20;Ambaraba' (15);20;29307
+360;GUALAZZI VITTORIA;I Tre giardini sez primavera (18);20;La Grande quercia di Via Leoncavallo (31);20;28738
+361;MATALONI ANNA;Ambaraba' (15);20;Villa San Martino - Via togliatti (54);20;29298
+362;SAU SOFIA MARIA;Filo rosso (21);20;Gaudiano - Mille colori (7);20;29724
+363;BERNARDI LEONARDO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);20;Mary poppins di Colombarone (11);20;28777
+364;PIERI ALESSIO;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);20;Ambaraba' (15);20;28988
+365;DEL MAGNA ARIANNA;La giostra (28);20;();20;29252
+366;LIONETTI LEONARDO;I Tre giardini sez primavera (18);20;La Grande quercia di Via Leoncavallo (31);20;29649
+367;BASTIANELLI ALESSANDRO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);20;I Tre giardini sez primavera (18);20;28780
+368;MARCANTONI ELIA;Grillo parlante (8);20;Specchio magico (17);20;28507
+369;CECCHINI LUDOVICA;I Tre giardini sez primavera (18);20;Olivieri - Glicine (37);20;28667
+370;BORGACCI GIORGIA;Pirandello - Dire fare... (6);20;I Tre giardini sez primavera (18);20;28782
+371;ENEA ETTORE;Pirandello - Prato fiorito (18);20;Pirandello - Dire fare... (6);20;28630
+372;GAMBUTO VITTORIA;Grillo parlante (8);20;G. Galilei - Alice (19);20;29516
+373;PAOLI GINEVRA;Ambaraba' (15);20;Specchio magico (17);20;28539
+374;CANDUCCI LEONARDO;Alighieri - Skarabocchio (40);20;Peter pan di Via Livorno (19);20;28491
+375;GIRELLI PIETRO;Il Giardino fantastico di Via Madonna di Loreto (8);20;I Tre giardini sez primavera (18);20;29632
+376;DE ANGELIS GINEVRA;Filo rosso (21);20;Peter pan di Via Livorno (19);20;29108
+377;CURZI RICCARDO;La Grande quercia di Via Leoncavallo (31);20;Villa San Martino - Via togliatti (54);20;29571
+378;GIULIANI LORENZO;Poi poi di Via Ferraris (22);20;Gulliver di Via Flaminia (29);20;28588
+379;MADAU ANTALDI ADELE;Pirandello - Milleluci (11);20;();20;28610
+380;LUCARINI OLIVIA;Grillo parlante (8);20;G. Galilei - Alice (19);20;28519
+381;OLIVIERI NICOLO\';Poi poi di Via Ferraris (22);20;Gulliver di Via Flaminia (29);20;28679
+382;SEMERARO AURORA;Alighieri - Skarabocchio (40);20;Specchio magico (17);20;28562
+383;BIRCA EMMA;Olivieri - Glicine (37);20;Il Giardino fantastico di Via Madonna di Loreto (8);20;28892
+384;SINISI DANIEL;La Grande quercia di Via Leoncavallo (31);20;I Tre giardini sez primavera (18);20;29401
+385;PETRONI ENEA;Gaudiano - Mille colori (7);20;Poi poi di Via Ferraris (22);20;28762
+386;MORAZZINI  CHANEL;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);20;();20;29957
+387;BANNINI TOMMASO;Poi poi di Via Ferraris (22);19;Gulliver di Via Flaminia (29);19;29744
+388;MAFFOLI ANITA;Il Giardino fantastico di Via Madonna di Loreto (8);19;Gulliver di Via Flaminia (29);19;29728
+389;CIAVAGLIA MARIA VITTORIA;Pirandello - Dire fare... (6);19;Pirandello - Prato fiorito (18);19;29682
+390;KHEMISSI RACHA;Filo rosso (21);19;Leopardi - Via Bonali (22);19;29053
+391;RICCIATTI CESARE;Peter pan di Via Livorno (19);19;Specchio magico (17);19;28506
+392;BAIONI JACOPO;Poi poi di Via Ferraris (22);19;Gulliver di Via Flaminia (29);19;29268
+393;RONDOLINI ANNA;Peter pan di Via Livorno (19);19;Specchio magico (17);19;29856
+394;OLIVA CECILIA;Pirandello - Milleluci (11);19;Pirandello - Dire fare... (6);19;28887
+395;LERCI CECILIA;Peter pan di Via Livorno (19);19;Specchio magico (17);19;28761
+396;GARULLI PIETRO;Alighieri - Skarabocchio (40);19;Ambaraba' (15);19;29779
+397;BEY JULIA;Filo rosso (21);19;Gaudiano - Mille colori (7);19;29250
+398;MONTESI EMANUELE;Grillo parlante (8);19;G. Galilei - Alice (19);19;29369
+399;RIVERO ACHILLE GABRIEL;La Grande quercia di Via Leoncavallo (31);19;Villa San Martino - Via togliatti (54);19;28452
+400;CECCHINI CRISTIAN;Il Giardino fantastico di Via Madonna di Loreto (8);19;I Tre giardini sez primavera (18);19;29120
+401;ALDORISIO GREGORIO;Alighieri - Skarabocchio (40);19;Specchio magico (17);19;30019
+402;PRIOLI LEONE;Ambaraba' (15);19;Specchio magico (17);19;29368
+403;FRATERNALI VITTORIA;Filo rosso (21);19;Peter pan di Via Livorno (19);19;28735
+404;GUIDI ELENA;Alighieri - Skarabocchio (40);19;Ambaraba' (15);19;28509
+405;LAGUNA RANGEL ALMA;Il Giardino fantastico di Via Madonna di Loreto (8);19;La Grande quercia di Via Leoncavallo (31);19;28901
+406;GENNARI PERLA;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);19;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);19;28574
+407;GIUNTA EMMA;Pirandello - Dire fare... (6);19;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);19;29404
+408;CARBONI MIA;Pirandello - Dire fare... (6);19;I Tre giardini sez primavera (18);19;28862
+409;PAOLUCCI ZAKARIA;Pirandello - Milleluci (11);19;Cappuccetto rosso (9);19;30024
+410;PAOLINI ACHILLE;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);19;Ambaraba' (15);19;28851
+411;MIGLIORINI FRANCESCO;Poi poi di Via Ferraris (22);19;Peter pan di Via Livorno (19);19;30099
+412;ILLUMINATI FUTURA;La giostra (28);19;Olivieri - Glicine (37);19;28596
+413;GUALAZZI FRANCESCO;Grillo parlante (8);19;G. Galilei - Alice (19);19;28487
+414;BEDINI JASON;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);19;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);19;29152
+415;GIAMPAOLI VITTORIA;Grillo parlante (8);19;La Grande quercia di Via Leoncavallo (31);19;29243
+416;ZAFFINI CAMILLA LUISA;G.Galilei Tresei B.go S.Maria  (33);19;();19;28768
+417;BOLO PUGLIESE JUANA;Peter pan di Via Livorno (19);19;Specchio magico (17);19;29460
+418;BOLO PUGLIESE LUCAS MANUEL;Peter pan di Via Livorno (19);19;Specchio magico (17);19;29459
+419;HOSSAN NUSAIBA;La Grande quercia di Via Leoncavallo (31);19;Villa San Martino - Via togliatti (54);19;29567
+420;PRETELLI MENAGED ISABELLA;G. Galilei - Alice (19);18;();18;29489
+421;GIARDINI MICHELE;Leopardi - Via Bonali (22);18;Leopardi - Via Fermi (22);18;29272
+422;SALVATORI CHIARA;Pirandello - Prato fiorito (18);18;Il Giardino fantastico di Via Madonna di Loreto (8);18;29944
+423;CARSETTI RACHELE;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);18;Alighieri - Skarabocchio (40);18;28693
+424;CIRCOLONE REBECCA;Alighieri - Skarabocchio (40);18;Specchio magico (17);18;28753
+425;PERILLI EVELYNN;Alighieri - Skarabocchio (40);18;();18;28772
+426;MONTEBELLO LEONARDO;I Tre giardini sez primavera (18);18;La Grande quercia di Via Leoncavallo (31);18;29762
+427;ZAMBATARO ALESSANDRO PIETRO;Villa San Martino - Via togliatti (54);18;();18;29418
+428;BAZE CHLOE;La giostra (28);18;();18;29487
+429;D\'ELIA CHIARA;Poi poi di Via Ferraris (22);18;Gulliver di Via Flaminia (29);18;29656
+430;BARILARI CARLO;Grillo parlante (8);18;La Grande quercia di Via Leoncavallo (31);18;29522
+431;DI PLACIDO LARA;La giostra (28);18;Pirandello - Prato fiorito (18);18;29801
+432;MARCHETTI LEONARDO;Olivieri - Glicine (37);18;Il Giardino fantastico di Via Madonna di Loreto (8);18;28734
+433;WARNAKULASOORIYA LINISHA PAHASARI FERNANDO;Alighieri - Skarabocchio (40);18;();18;29022
+434;DE LUCA MORGAN;G. Galilei - Alice (19);18;();18;29178
+435;NORECI ZAMRII EMMA;Mary poppins di Colombarone (11);17;();17;29828
+436;BERTI DYLAN BERTI;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);17;G.GalileiPollicino Casebruciate  (11);17;28989
+437;AHNAF MD MOHIUDDIN;Filo rosso (21);17;Leopardi - Via Bonali (22);17;29619
+438;CAMILLI ALESSANDRO;La Grande quercia di Via Leoncavallo (31);17;Grillo parlante (8);17;29331
+439;GESSI ALEX;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);17;();17;29191
+440;BRACA SEBASTIAN;Poi poi di Via Ferraris (22);17;Gulliver di Via Flaminia (29);17;28497
+441;LIVI STELLA;Gulliver di Via Flaminia (29);17;Poi poi di Via Ferraris (22);17;29564
+442;ROMA SONNY;Alighieri - Skarabocchio (40);17;Peter pan di Via Livorno (19);17;29044
+443;KARUNA PEDIGE DINARA SIHANSI;Peter pan di Via Livorno (19);17;Specchio magico (17);17;28607
+444;RIOLO ALICE;G.Galilei Tresei B.go S.Maria  (33);17;G.GalileiPollicino Casebruciate  (11);17;30093
+445;RIOLO ALICE;G.Galilei Tresei B.go S.Maria  (33);17;G.GalileiPollicino Casebruciate  (11);17;30064
+446;GORI FEDERICO YUMA;Specchio magico (17);17;Peter pan di Via Livorno (19);17;30011
+447;CUOMO LEONARDO;Grillo parlante (8);17;G. Galilei - Alice (19);17;29551
+448;CECCAROLI AURORA;Cappuccetto rosso (9);16;Gulliver di Via Flaminia (29);16;29217
+449;CECCAROLI ANDREA;Cappuccetto rosso (9);16;Gulliver di Via Flaminia (29);16;29214
+450;CARNALI LINDA;La Grande quercia di Via Leoncavallo (31);16;Il Giardino fantastico di Via Madonna di Loreto (8);16;29731
+451;CANDIRACCI GIULIA;Pirandello - Milleluci (11);16;Pirandello - Dire fare... (6);16;28796
+452;GOSTOLI NORA;Poi poi di Via Ferraris (22);16;La Grande quercia di Via Leoncavallo (31);16;29260
+453;DINI NIA;Cappuccetto rosso (9);16;();16;29095
+454;FABI CATERINA;Pirandello - Prato fiorito (18);16;Villa San Martino - Via togliatti (54);16;29787
+455;CARNAROLI VITTORIA;La Grande quercia di Via Leoncavallo (31);16;Villa San Martino - Via togliatti (54);16;29812
+456;DEM ALICE;I Tre giardini sez primavera (18);16;Il Giardino fantastico di Via Madonna di Loreto (8);16;29365
+457;UCCHIELLI GIOELE;Grillo parlante (8);16;();16;29305
+458;TESEI EDOARDO;Alighieri - Skarabocchio (40);16;Pirandello - Prato fiorito (18);16;29683
+459;CAVALIERI TOMMASO;Specchio magico (17);16;Peter pan di Via Livorno (19);16;28939
+460;CAVALIERI  LEONARDO;Specchio magico (17);16;Peter pan di Via Livorno (19);16;28938
+461;SCAGLIONI VIOLA;Poi poi di Via Ferraris (22);16;Gulliver di Via Flaminia (29);16;28581
+462;BRACACCINI GABRIELE;Olivieri - Glicine (37);16;La Grande quercia di Via Leoncavallo (31);16;28770
+463;LAZZARO ENEA;Ambaraba' (15);16;Villa San Martino - Via togliatti (54);16;29826
+464;LAZZARO ELIAS;Ambaraba' (15);16;Villa San Martino - Via togliatti (54);16;29824
+465;ORLANDI EDOARDO;La Grande quercia di Via Leoncavallo (31);16;Villa San Martino - Via togliatti (54);16;29391
+466;MONTESI NICOLO\';G.Galilei Tresei B.go S.Maria  (33);16;Specchio magico (17);16;29768
+467;PANICALI CAROLINA;Ambaraba' (15);15;Alighieri - Skarabocchio (40);15;28754
+468;WARNAKULASOORIYA ALISIA PINIDI PEIRIS;Gaudiano - Mille colori (7);15;Filo rosso (21);15;29579
+469;SANTUCCI GIULIA;Il Giardino fantastico di Via Madonna di Loreto (8);15;I Tre giardini sez primavera (18);15;28587
+470;FERRI CECILIA;Poi poi di Via Ferraris (22);15;Gulliver di Via Flaminia (29);15;29610
+471;COMMITANTE MELISSA;Filo rosso (21);11;Peter pan di Via Livorno (19);15;28982
+472;BARATTINI GINEVRA;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);15;La Grande quercia di Via Leoncavallo (31);15;28952
+473;POLEI NINA;Il Giardino fantastico di Via Madonna di Loreto (8);15;La Grande quercia di Via Leoncavallo (31);15;29867
+474;SACCHI LORENZO;Specchio magico (17);15;Ambaraba' (15);15;29717
+475;BORALESGAMUWAGE HITHAKSHI WEHARA;G.Galilei Tresei B.go S.Maria  (33);15;();15;29862
+476;CARABALI BARRANTES  BRAYDEN ALEXANDER;Alighieri - Skarabocchio (40);15;Gaudiano - Mille colori (7);15;28822
+477;GIOACCHINI LEONARDO;Specchio magico (17);15;Alighieri - Skarabocchio (40);15;29174
+478;ARENA ARIEL;Poi poi di Via Ferraris (22);15;Gulliver di Via Flaminia (29);15;29764
+479;OTTANI SCONZA MIA;Leopardi - Via Bonali (22);15;Poi poi di Via Ferraris (22);15;29474
+480;CARDONE VITTORIA;Poi poi di Via Ferraris (22);15;();15;29517
+481;GENNARI NORA;Pirandello - Prato fiorito (18);15;Alighieri - Skarabocchio (40);15;28907
+482;GUIDUCCI MATILDE;Grillo parlante (8);15;La Grande quercia di Via Leoncavallo (31);15;29114
+483;AGOSTINI FEDERICO;Cappuccetto rosso (9);15;Gulliver di Via Flaminia (29);15;28504
+484;PROSPERI CLAUDIA;Alighieri - Skarabocchio (40);14;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);14;28902
+485;VIGILANTE GINEVRA;Pirandello - Prato fiorito (18);14;I Tre giardini sez primavera (18);14;28624
+486;OLTEANU GIULIA MELANIA;Peter pan di Via Livorno (19);14;Alighieri - Skarabocchio (40);14;29634
+487;PAONE GAIA;Ambaraba' (15);14;();14;29173
+488;LOBCOV MAXIM;Leopardi - Via Bonali (22);13;();13;29428
+489;BONIFACIO VILLAJUAN MYLLENE ADELE;Gulliver di Via Flaminia (29);13;Il Giardino fantastico di Via Madonna di Loreto (8);13;28488
+490;FEDERICI ACHILLE;Pirandello - Milleluci (11);13;Pirandello - Dire fare... (6);13;29185
+491;COLOCCI MARIA YSABEL;La giostra (28);13;Filo rosso (21);13;29267
+492;GAJASINGHE DALUWATTAGE RAISHI NELINSA GUNARATHNA;La Grande quercia di Via Leoncavallo (31);13;Villa San Martino - Via togliatti (54);13;29763
+493;LUCHETTA GRETA;Ambaraba' (15);13;La Grande quercia di Via Leoncavallo (31);13;28591
+494;CRISCI EDOARDO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);13;Ambaraba' (15);13;28564
+495;FOSCHI ELIA;G.Galilei Tresei B.go S.Maria  (33);13;();13;28690
+496;COSTIN CRISTIAN VLADIMIR;Olivieri - Glicine (37);13;();13;29971
+497;GIANNARRUSTO LEONARDO;G. Galilei - Il bosco incantato (23);13;Grillo parlante (8);13;29282
+498;ESPOSITO GIULIA;Villa San Martino - Via togliatti (54);13;Pirandello - Prato fiorito (18);13;30089
+499;BARTOLINI MATTIA;Mary poppins di Colombarone (11);13;();13;29490
+500;BORRELLI SIMONE;La Grande quercia di Via Leoncavallo (31);13;Grillo parlante (8);13;29025
+501;STEGARI MADALINA;La Grande quercia di Via Leoncavallo (31);13;Villa San Martino - Via togliatti (54);13;29314
+502;MUMMOLO PAPPALEPORE DEI DE ROSSI TOMMASO;Peter pan di Via Livorno (19);13;Specchio magico (17);13;29147
+503;POLIDORI ALAN;Villa San Martino - Via togliatti (54);13;Alighieri - Skarabocchio (40);13;29973
+504;PRODAN LEONARD;G.Galilei Tresei B.go S.Maria  (33);13;G.GalileiPollicino Casebruciate  (11);13;28712
+505;DONOS PIETRO;Il Giardino fantastico di Via Madonna di Loreto (8);13;La giostra (28);13;29203
+506;RENZI AARON;Pirandello - Prato fiorito (18);13;Villa San Martino - Via togliatti (54);13;28878
+507;MATILDE GENNARI;Alighieri - Skarabocchio (40);13;Specchio magico (17);13;30013
+508;METOHU ADELA;Ambaraba' (15);13;Gulliver di Via Flaminia (29);13;30001
+509;FUSCO AURORA;Alighieri - Skarabocchio (40);13;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);13;28800
+510;BEZZICCHERI LUCA;Poi poi di Via Ferraris (22);12;Il Giardino fantastico di Via Madonna di Loreto (8);12;29948
+511;RUSSO NICOLE;Mary poppins di Colombarone (11);12;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);12;29363
+512;GHIANDONI GABRIEL JESUS;Grillo parlante (8);12;G. Galilei - Alice (19);12;28797
+513;MASSERONI BRANDO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);12;Pirandello - Dire fare... (6);12;28949
+514;FARACI GIORGIO;Ambaraba' (15);12;La Grande quercia di Via Leoncavallo (31);12;29142
+515;PICCOLI ALICE;G.Galilei Tresei B.go S.Maria  (33);12;();12;28834
+516;DEL GRANDE AMELIA;La Grande quercia di Via Leoncavallo (31);11;Ambaraba' (15);11;29068
+517;CALANCEA LEONARDO;G.Galilei Tresei B.go S.Maria  (33);11;();11;28617
+518;CARDELLINI CHIARA;G. Galilei - Il bosco incantato (23);10;G. Galilei - Alice (19);10;29792
+519;NIKOLLI RAJNA;Mary poppins di Colombarone (11);9;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);9;29640
+520;TERENZI CRISTIAN;Ambaraba' (15);9;La Grande quercia di Via Leoncavallo (31);9;28865
+521;JAYASOORIYA KURANAGE ZION METHUSHAL PERERA;Alighieri - Skarabocchio (40);9;Peter pan di Via Livorno (19);9;28512
+522;DI NUZZO GIULIA;G. Galilei - Alice (19);9;();9;29157
+523;CARLI ALESSANDRO;Mary poppins di Colombarone (11);8;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);8;29639
+524;CRACCHIOLO ALESSANDRO;Filo rosso (21);8;Il Giardino fantastico di Via Madonna di Loreto (8);8;28537
+525;GANCHOZO PIZARRO BRAYDEN;Gaudiano - Mille colori (7);7;();7;28973
+526;COLOMBO ALESSANDRO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);6;La Grande quercia di Via Leoncavallo (31);6;29016
+527;DE ANGELI ALBERTO;Leopardi - Via Bonali (22);6;Leopardi - Via Fermi (22);6;28530
+528;CALDERONI PIETRO;Alighieri - Skarabocchio (40);10029;Gaudiano - Mille colori (7);30;28948
+529;LUSINI RACHELE MARIA;Gaudiano - Mille colori (7);10028;Gulliver di Via Flaminia (29);29;29554
+530;TRENTINO  GAIA;Gaudiano - Mille colori (7);10024;Peter pan di Via Livorno (19);21;28789
+531;BUTTAZZO SOFIE;Grillo parlante (8);-4983;G. Galilei - Il bosco incantato (23);-4983;29756
+532;CAREDDU JOELE;Villa San Martino - Via togliatti (54);-14963;Ambaraba' (15);-14963;30022
+533;CARLIER DAVID;Filo rosso (21);-14968;Gaudiano - Mille colori (7);-14968;30119
+534;ERAMO GIOELE;Mary poppins di Colombarone (11);29;();29;28819
+535;DE SANTI ALESSANDRO;La giostra (28);24;Olivieri - Glicine (37);24;29312
+536;BHUIYAN LINA;Alighieri - Skarabocchio (40);-14978;Ambaraba' (15);-14978;29987
+537;LAZZARINI SIRIO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);20;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);20;28997
+538;MONTICELLI ZOE;Poi poi di Via Ferraris (22);19;Gulliver di Via Flaminia (29);19;29617
+539;PANICI AURORA;Pirandello - Prato fiorito (18);-14981;Olivieri - Glicine (37);-14981;28554
+540;SANCHIONI GINEVRA;Ambaraba' (15);19;D.Alighieri Mongolfiera S.Maria Fabbrecce  (23);19;29861
+541;NICASTRO BRANDO;Mary poppins di Colombarone (11);18;();18;28915
+542;SIDERI SOFIA;Il Giardino fantastico di Via Madonna di Loreto (8);-14983;Ambaraba' (15);-14983;28642
+543;ANDREI LEONARDO;Grillo parlante (8);16;G. Galilei - Alice (19);16;29511
+544;BRINZAN  IAROSLAV;Olivieri - Glicine (37);16;La giostra (28);16;29566
+545;NESTORI MICAELA SOFIA;Filo rosso (21);15;Peter pan di Via Livorno (19);15;28990
+546;CARLIER DAVID;();-15000;();-15000;30117
+547;NOCERA EMANUELE;();-15000;();-15000;30087
+548;BARBARINI DELIA;Peter pan di Via Livorno (19);10033;();34;28551
+549;MARCOLINI LEONARDO;G.GalileiPollicino Casebruciate  (11);10021;Pirandello - Prato fiorito (18);22;30098
+550;HADJIEDJ MOHAMED AMINE;Leopardi - Via Bonali (22);10021;();22;30074
+551;MARCHETTI  ALICE;La Grande quercia di Via Leoncavallo (31);10021;La Grande quercia di Via Leoncavallo (31);22;30104
+552;KAZEMI SABOOR YUHAN;Peter pan di Via Livorno (19);10015;Specchio magico (17);10015;28628
+553;KELLICI ENEA;Filo rosso (21);10004;();10004;29864
+554;MITITEL ARIANA;Ambaraba' (15);33;La Grande quercia di Via Leoncavallo (31);62;30031
+555;PROFILI DARIO;Filo rosso (21);23;Poi poi di Via Ferraris (22);48;29642
+556;FRANCI MIA;Poi poi di Via Ferraris (22);23;La Grande quercia di Via Leoncavallo (31);23;29906
+557;GUNSCH GRETA;Alighieri - Skarabocchio (40);31;Specchio magico (17);31;28580
+558;VALENTINI ATHENA;G.GalileiPollicino Casebruciate  (11);28;();28;29854
+559;TORREGGIANI LARA;La giostra (28);28;Ambaraba' (15);28;30110
+560;MORICOLI MIRANDA;Filo rosso (21);28;();28;29876
+561;POLIDORI OTTAVIA;Peter pan di Via Livorno (19);25;Specchio magico (17);25;28635
+562;TONTI GIACOMO;La giostra (28);23;La Grande quercia di Via Leoncavallo (31);23;29950
+563;COLIC ALICE;La Grande quercia di Via Leoncavallo (31);23;Villa San Martino - Via togliatti (54);23;28478
+564;DEL PRETE MARCO;La giostra (28);22;La Grande quercia di Via Leoncavallo (31);18;29383
+565;TADDEI NOEMI;G.GalileiPollicino Casebruciate  (11);21;G.Galilei Tresei B.go S.Maria  (33);21;28603
+566;LEVRONI EDOARDO;La Grande quercia di Via Leoncavallo (31);19;();19;28545
+567;DI SANTE ARIEL;Ambaraba' (15);18;La Grande quercia di Via Leoncavallo (31);18;29810
+568;CAFFARELLA FRANCESCO;D.Alighieri Il Giardino delle Meraviglie  Vismara (35);17;Villa San Martino - Via togliatti (54);17;29879
+569;SERAFINI LEONE;La giostra (28);15;Gulliver di Via Flaminia (29);15;28528
+570;DELLA FORNACE LORENZO;G.Galilei Tresei B.go S.Maria  (33);13;();13;28502
+571;TOSONI FRANCESCO JUNIOR;Pirandello - Dire fare... (6);13;Leopardi - Via Bonali (22);13;29456
